@@ -132,10 +132,10 @@ foreground-child@^3.1.0:
     cross-spawn "^7.0.0"
     signal-exit "^4.0.1"
 
-g2p_mapper@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/g2p_mapper/-/g2p_mapper-1.0.7.tgz#0ab2d90091fc6645cdf0d2367cdebd444473c7d6"
-  integrity sha512-6jgkWZZ+vi08flXx6byllexAk7LUa/TWDFz8jVgWDC6V610xM8r2y4DWjCU0RPD0wnDhrptHZ263YRQCxnkz1Q==
+g2p_mapper@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/g2p_mapper/-/g2p_mapper-2.0.0.tgz#7d67abaf7a7df527f1a5d2c776e97cc741071c88"
+  integrity sha512-mOFXTiFXxHS1Y8c+vUxyu32oDBN41gwjf4IWK6yy7xilYw9MVrmkd4S5PbApPno7w7Cp91kKGXOqxxP+oLqLEQ==
 
 get-caller-file@^2.0.5:
   version "2.0.5"
